@@ -8,7 +8,7 @@
 
 ## Reporting a Vulnerability
 
-To report a security vulnerability, please send an email to security@example.com with details of the vulnerability. We will respond within 48 hours.
+To report a security vulnerability, please send an email to kassoulet@gmail.com with details of the vulnerability. We will respond within 48 hours.
 
 ## Scope & Guidelines
 
