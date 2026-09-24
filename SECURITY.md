@@ -8,7 +8,17 @@
 
 ## Reporting a Vulnerability
 
-To report a security vulnerability, please send an email to kassoulet@gmail.com with details of the vulnerability. We will respond within 48 hours.
+To report a security vulnerability, please send an email to kassoulet@gmail.com with details of the vulnerability.
+
+### Preferred Languages
+
+We accept vulnerability reports in **English** and **French**.
+
+### Response Expectations & Timeline
+
+- **Acknowledgement:** Within 48 hours.
+- **Status Update / Assessment:** Within 7 business days.
+- **Coordinated Disclosure:** We request reporters to keep findings confidential until a fix is published.
 
 ## Scope & Guidelines
 
