@@ -14,6 +14,10 @@ To report a security vulnerability, please send an email to kassoulet@gmail.com 
 
 We accept vulnerability reports in **English** and **French**.
 
+### Encrypted Communications
+
+If you need to send sensitive details or proof-of-concept code, please request our PGP public key in your initial outreach email before transmitting sensitive data.
+
 ### Response Expectations & Timeline
 
 - **Acknowledgement:** Within 48 hours.
@@ -23,6 +27,7 @@ We accept vulnerability reports in **English** and **French**.
 ### Report Requirements
 
 Please include the following information in your report:
+
 - Description of the vulnerability and its potential impact
 - Step-by-step reproduction instructions or proof-of-concept (PoC)
 - Affected components or configurations
